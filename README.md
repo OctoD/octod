@@ -10,7 +10,3 @@ I do everything which involves TypeScript and [Rescript](https://rescript-lang.o
 
 Loving Godot Engine and game making.
 I Play bass and guitar when I can.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OctoD&show_icons=true&theme=dracula" />
-</p>
